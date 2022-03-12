@@ -14,7 +14,7 @@
 
 ![image](https://github.com/JoaoVitor-Dev/Sistema-Financeiro-Web-/blob/main/Github/2.PNG)
 
-#### Lançamentos em Grid
+#### Lançamentos
 
 ![image](https://github.com/JoaoVitor-Dev/Sistema-Financeiro-Web-/blob/main/Github/3.PNG)
 
